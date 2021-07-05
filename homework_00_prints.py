@@ -60,7 +60,7 @@ def tarea0():
     # is_normal 
     
     #If you have any questions, see our video on Youtube
-    return 
+    return round(dm.median,4),round(dm.var_95,6),dm.is_normal
 
 
 #NO MODIFICAR
